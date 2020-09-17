@@ -1,0 +1,8 @@
+Membuat website sederhana
+langkah langkah:
+1. membuat kerangka html
+2. membuat kerangka container
+3. membuat kerangka header
+4. membuat kerangka image
+5. membuat kerangka main
+6. membuat footer
